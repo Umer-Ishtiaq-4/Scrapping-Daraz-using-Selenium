@@ -1,0 +1,1 @@
+THe project is about Web scraping that extracts product data from Daraz based on User Input. The web Scraper extracts all product data available on the website & lists them into a DataFrame for more processing.
